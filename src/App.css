@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+
+.container {
+	margin: 0 auto;
+}
+
+.icon-switch {
+	display: flex;
+	justify-content: flex-end;
+  margin-top: 20px;
+	margin-right: 35px;
+}
+
+.material-icons {
+	color: #5f6368;
+}
+
+.material-icons:hover {
+	cursor: pointer;
+	color: #000000;
+}
